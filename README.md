@@ -14,7 +14,7 @@ Abdullah Alhadi </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 
  <img src="https://komarev.com/ghpvc/?username=HavedAlhadi&label=Profile%20views&color=0e75b6&style=fla" alt="100rabhcsmc" />
  
-- 🔭 I can help you with analysis, planning and perfect completion of your project <a href="https://flutter.dev/">...</a>
+- 🔭 I can help you with analysis, planning and perfect completion of your project.
 
 - 🌱 I’m currently Working on Flutter Mobile Applications
 
