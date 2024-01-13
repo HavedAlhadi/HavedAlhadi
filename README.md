@@ -14,11 +14,11 @@ Abdullah Alhadi </a> <img width="30px" src="https://raw.githubusercontent.com/ia
 
  <img src="https://komarev.com/ghpvc/?username=HavedAlhadi&label=Profile%20views&color=0e75b6&style=fla" alt="100rabhcsmc" />
  
-- 🔭 I’m currently working in <a href="https://flutter.dev/">...</a>
+- 🔭 I can help you with analysis, planning and perfect completion of your project <a href="https://flutter.dev/">...</a>
 
 - 🌱 I’m currently Working on Flutter Mobile Applications
 
-- 🤝 I’m available for freelancing or part-time jobs.
+- 🤝 I’m available for freelancing or full-time jobs.
 
 - 💬 Ask me about **<a href="https://flutter.dev/">Flutter</a> & <a href="https://dart.dev/">Dart</a>**
 
