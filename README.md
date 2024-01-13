@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm  <a href="https://github.com/HavedAlhadi/HavedAlhadi" target="blank">
-HavedAlhadi </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+Abdullah Alhadi </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">I'm a mobile applications developer having an experience with Flutter</h3>
 <h3 align="center"> 📄 Know more about <a href="http://dev-ahalhadi.unaux.com/" target="blank">my websit</a></h3>
@@ -31,17 +31,17 @@ HavedAlhadi </a> <img width="30px" src="https://raw.githubusercontent.com/iampav
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contact with me 🤝 </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ezz-dev/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdullah-alhadi-96146b2a2">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/HavedAlhadi/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16909527/HavedAlhadi-al-homaidi">
+		<a style="margin-left: 10px;" target="_blank" href="#">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/HavedAlhadi_mofeed/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dev_h%207">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/HavedAlhadiH">
+		<a style="margin-left: 10px;" target="_blank" href="#">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/HavedAlhadi.AlHomaidi">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/dev.abdullah.alhad">
 			<img src="https://img.icons8.com/doodle/1x/facebook-new--v2.png" ></a>
       </div>
 
