@@ -6,7 +6,7 @@
 Abdullah Alhadi </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">I'm a mobile applications developer having an experience with Flutter</h3>
-<h3 align="center"> 📄 Know more about <a href="http://dev-ahalhadi.unaux.com/" target="blank">my websit</a></h3>
+<h3 align="center"> 📄 Know more about <a href="http://dev-alhadi.pages.dev/" target="blank">my websit</a></h3>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="imgs/Mobile-App-Development-Tools-GIF.gif">
